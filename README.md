@@ -54,7 +54,7 @@ Edit this document to include your answers after each question. Make sure to lea
         4. Margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
-       By default in flex-box , the axis is horizontal unless specified otherwise.   
+       By default in flex-box , the axis is vertical unless specified otherwise.   
 
 5. Explain why git is valuable to a team of developers.
         Git enables for collaboration amongst developers when working on a project. It is also
