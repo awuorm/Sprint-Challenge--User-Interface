@@ -144,3 +144,23 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/*************My code begins here*****************/
+nav {
+    border:2px solid black;
+    padding:10px 10px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+    nav a{
+        border: 2px solid red;
+        
+    }
+.navigation-image-wrapper img{
+    border: 1px solid green;
+    padding: 10px 10px;
+    margin: 0 auto;
+    object-fit:fill;
+}
+
