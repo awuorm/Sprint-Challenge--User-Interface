@@ -263,3 +263,24 @@ nav {
     justify-content: center;
     background-color:dodgerblue;
 }
+hr{
+    border-top: 1px dashed black;
+}
+.about-header{
+    border: 1px solid green;
+    padding: 10px 10px;
+    margin:0 auto;
+}
+.about-navigation-image-wrapper{
+    border: 1px solid black;
+    padding: 10px 10px;
+    margin:0 auto;
+}
+
+.about-header-img-wrapper{
+    border: 1px solid red;
+    padding: 10px 10px;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+}
