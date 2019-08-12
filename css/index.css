@@ -312,7 +312,17 @@ h1 {
             padding: 12px 20px;
             /* margin: 0 auto; */
         }
-    
+.contact-box-wrapper{
+    border:2px solid black;
+    padding: 5px 5px;
+    margin: 10px;
+
+}
+    .contact-box {
+    border:2px solid red;
+    padding: 5px 5px;
+    margin: 10px;
+    }
             
         
         
