@@ -288,7 +288,7 @@ hr{
 h1 {
     padding: 10px 10px;
     margin: 0 auto;
-    border: 1px solid blue;
+    border: 1px;
     color:maroon;
     text-align: center;
 }
@@ -296,17 +296,23 @@ h1 {
 .header-form {
     width:100%;
     padding: 12px 20px;
-    margin: 0 auto;
+    /*margin: 0 auto;*/
     display: flex;
     justify-content: center;
-    border: 2px solid black;
+    border: 2px;
 }
 
     form {
         border:2px;
+        width:100%;
+
     }
         input {
             width:100%;
             padding: 12px 20px;
-            margin: 0 auto;
+            /* margin: 0 auto; */
         }
+    
+            
+        
+        
